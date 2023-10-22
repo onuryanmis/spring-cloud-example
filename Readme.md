@@ -29,3 +29,4 @@ Spring Boot Cloud Example
 - [ ] Config Bus (RabbitMQ)
 - [ ] Project Diagram
 - [ ] Project Documentation (Swagger)
+- [ ] Jacoco Code Coverage
