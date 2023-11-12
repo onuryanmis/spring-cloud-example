@@ -7,7 +7,7 @@ spring:
         git:
           uri: "https://github.com/onuryanmis/spring-cloud-example.git"
           search-paths:
-            config-repo/src/main/resources/config
+            config-server/src/main/resources/config
           clone-on-start: true
           default-label: main
 
