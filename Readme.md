@@ -24,7 +24,7 @@ Spring Boot Cloud Example
 - [ ] Project dockerization
 - [ ] CI/CD (Github Actions)
 - [ ] Distributed Tracing
-- [ ] Circuit Breaker
+- [X] ~~Circuit Breaker~~
 - [X] ~~Config Server~~
 - [ ] Config Bus (RabbitMQ)
 - [ ] Project Diagram
